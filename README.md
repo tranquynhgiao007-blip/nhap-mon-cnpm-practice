@@ -1,4 +1,5 @@
 # nhap-mon-cnpm-practice
 Repository thực hành cho học phần nhập môn Công nghệ phần mềm 
--Họ và tên : Trần Thị Quỳnh Giao
--MSV: 25S1020026
+## Thông tin sinh viên 
+- **Họ và tên :** Trần Thị Quỳnh Giao
+- **Mã số sinh viên:** 25S1020026
